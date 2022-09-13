@@ -8,7 +8,7 @@ import com.badlogic.gdx.utils.ScreenUtils;
 public class ForestAdventures extends Game {
 
 
-	public SpriteBatch batch;
+	public SpriteBatch batch;   //test
 	public BitmapFont font;
 
 
